@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "这是一个GitBook自动化构建的金庸小说介绍电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengshangzi/novel.git"
+  },
+  "keywords": [],
+  "author": "zhengshangzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengshangzi/novel/issues"
+  },
+  "homepage": "https://github.com/zhengshangzi/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
